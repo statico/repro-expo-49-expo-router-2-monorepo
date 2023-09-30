@@ -22,3 +22,5 @@ $ yarn --version
 $ npx expo --version
 0.10.13
 ```
+
+![CleanShot 2023-09-29 at 18 01 34](https://github.com/statico/repro-expo-49-expo-router-2-monorepo/assets/137158/7d1aac38-6c57-436f-8bd1-8f1da8376686)
